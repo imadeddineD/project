@@ -1,0 +1,1361 @@
+.elementor-28 .elementor-element.elementor-element-13f1635d:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-13f1635d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-text)
+}
+
+.elementor-28 .elementor-element.elementor-element-13f1635d>.elementor-background-overlay {
+    background-image: url("https://safront.com/wp-content/uploads/2024/02/cover.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .35;
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-13f1635d {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin-top: 125px;
+    margin-bottom: 0;
+    padding: 55px 25px
+}
+
+.elementor-28 .elementor-element.elementor-element-8dd6eeb {
+    text-align: center
+}
+
+.elementor-28 .elementor-element.elementor-element-8dd6eeb .elementor-heading-title {
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-bd776f6 {
+    text-align: center
+}
+
+.elementor-28 .elementor-element.elementor-element-bd776f6 .elementor-heading-title {
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-62e592f .elementor-widget-container {
+    text-align: center
+}
+
+.elementor-28 .elementor-element.elementor-element-62e592f img {
+    width: 295px
+}
+
+.elementor-28 .elementor-element.elementor-element-62e592f>.elementor-widget-container {
+    padding: 25px
+}
+
+.elementor-28 .elementor-element.elementor-element-d37ef9b .ekit-btn-wraper {
+    text-align: center
+}
+
+.elementor-28 .elementor-element.elementor-element-d37ef9b .elementskit-btn {
+    font-family: "Almarai", Sans-serif;
+    font-size: 37px;
+    font-weight: 400;
+    background-color: #000;
+    border-style: none;
+    border-radius: 15px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-d37ef9b .elementskit-btn:hover {
+    color: var(--e-global-color-primary);
+    background-color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-d37ef9b .elementskit-btn:hover svg path {
+    stroke: var(--e-global-color-primary);
+    fill: var(--e-global-color-primary)
+}
+
+.elementor-28 .elementor-element.elementor-element-d37ef9b .elementskit-btn>i,
+.elementor-28 .elementor-element.elementor-element-d37ef9b .elementskit-btn>svg {
+    margin-right: 5px
+}
+
+.rtl .elementor-28 .elementor-element.elementor-element-d37ef9b .elementskit-btn>i,
+.rtl .elementor-28 .elementor-element.elementor-element-d37ef9b .elementskit-btn>svg {
+    margin-left: 5px;
+    margin-right: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-7f53122 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 55px
+}
+
+.elementor-28 .elementor-element.elementor-element-ae374f4 {
+    padding: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-d458493>.elementor-element-populated {
+    border-style: solid;
+    border-width: 15px;
+    border-color: var(--e-global-color-secondary);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 25px
+}
+
+.elementor-28 .elementor-element.elementor-element-d458493>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-d458493>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-d458493>.elementor-background-slideshow {
+    border-radius: 45px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-d458493>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-2aa930d {
+    text-align: center
+}
+
+.elementor-28 .elementor-element.elementor-element-2aa930d .elementor-heading-title {
+    color: var(--e-global-color-primary)
+}
+
+.elementor-28 .elementor-element.elementor-element-df2ad1d {
+    text-align: right;
+    font-family: "Almarai", Sans-serif;
+    font-weight: 500;
+    line-height: 28px
+}
+
+.elementor-28 .elementor-element.elementor-element-df2ad1d>.elementor-widget-container {
+    margin: 0 0 -13px
+}
+
+.elementor-28 .elementor-element.elementor-element-c6116cf .ekit-btn-wraper {
+    text-align: center
+}
+
+.elementor-28 .elementor-element.elementor-element-c6116cf .elementskit-btn {
+    background-color: var(--e-global-color-secondary);
+    border-style: none;
+    border-radius: 15px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-c6116cf .elementskit-btn:hover {
+    color: #fff
+}
+
+.elementor-28 .elementor-element.elementor-element-c6116cf .elementskit-btn:hover svg path {
+    stroke: #fff;
+    fill: #fff
+}
+
+.elementor-28 .elementor-element.elementor-element-c6116cf .elementskit-btn>i,
+.elementor-28 .elementor-element.elementor-element-c6116cf .elementskit-btn>svg {
+    margin-right: 5px
+}
+
+.rtl .elementor-28 .elementor-element.elementor-element-c6116cf .elementskit-btn>i,
+.rtl .elementor-28 .elementor-element.elementor-element-c6116cf .elementskit-btn>svg {
+    margin-left: 5px;
+    margin-right: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-0f2582e {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 55px
+}
+
+.elementor-28 .elementor-element.elementor-element-5dc79c0 {
+    padding: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-55432ab>.elementor-element-populated {
+    border-style: solid;
+    border-width: 15px;
+    border-color: var(--e-global-color-secondary);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 25px
+}
+
+.elementor-28 .elementor-element.elementor-element-55432ab>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-55432ab>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-55432ab>.elementor-background-slideshow {
+    border-radius: 45px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-55432ab>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-7b2b205 {
+    text-align: center
+}
+
+.elementor-28 .elementor-element.elementor-element-7b2b205 .elementor-heading-title {
+    color: #bfa04c
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-entry-thumbnail {
+    height: 199px
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-grid-post-holder {
+    background-color: #fff;
+    border-radius: 27px 0;
+    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, .5)
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-post-grid .eael-grid-post .eael-entry-media img,
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-grid-post .eael-entry-overlay {
+    border-radius: 25px 0 0
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-entry-title a {
+    color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-entry-title:hover,
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-entry-title a:hover {
+    color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-entry-title,
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-entry-title a {
+    font-family: "Almarai", Sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: none
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-grid-post-excerpt p {
+    font-family: "Almarai", Sans-serif;
+    font-size: 21px;
+    font-weight: 500
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-grid-post-holder .eael-entry-wrapper {
+    height: 229px
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-grid-post .eael-entry-overlay {
+    background-color: #BFA04C57
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-post-grid .eael-grid-post .eael-entry-media .eael-entry-overlay {
+    border-radius: 27px 0 0
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-grid-post .eael-entry-overlay>i {
+    color: var(--e-global-color-c52b3fc);
+    font-size: 54px
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-grid-post .eael-entry-overlay>img {
+    height: 54px;
+    width: 54px
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-post-elements-readmore-btn {
+    text-align: center;
+    font-family: "Almarai", Sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--e-global-color-c52b3fc);
+    background-color: var(--e-global-color-secondary);
+    border-radius: 15px 0;
+    padding: 11px;
+    margin: 21px 0 0
+}
+
+.elementor-28 .elementor-element.elementor-element-dc90a76 .eael-post-elements-readmore-btn:hover {
+    border-radius: 0 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-184ed3e .ekit-btn-wraper {
+    text-align: center
+}
+
+.elementor-28 .elementor-element.elementor-element-184ed3e .elementskit-btn {
+    font-family: "Almarai", Sans-serif;
+    font-size: 27px;
+    font-weight: 700;
+    color: var(--e-global-color-c52b3fc);
+    background-color: var(--e-global-color-secondary);
+    border-style: none;
+    border-radius: 25px 0;
+    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, .5)
+}
+
+.elementor-28 .elementor-element.elementor-element-184ed3e .elementskit-btn svg path {
+    stroke: var(--e-global-color-c52b3fc);
+    fill: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-184ed3e .elementskit-btn:hover {
+    color: var(--e-global-color-c52b3fc);
+    background-color: var(--e-global-color-secondary);
+    border-radius: 0 25px
+}
+
+.elementor-28 .elementor-element.elementor-element-184ed3e .elementskit-btn:hover svg path {
+    stroke: var(--e-global-color-c52b3fc);
+    fill: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-7655abe {
+    --display: flex;
+    --background-transition: .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-bae7332:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-bae7332>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-accent)
+}
+
+.elementor-28 .elementor-element.elementor-element-bae7332 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 55px
+}
+
+.elementor-28 .elementor-element.elementor-element-bae7332>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-c5797a6 {
+    text-align: center
+}
+
+.elementor-28 .elementor-element.elementor-element-1546a93 {
+    padding: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-ea5ee99>.elementor-element-populated {
+    border-style: none;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 9px
+}
+
+.elementor-28 .elementor-element.elementor-element-ea5ee99>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-ea5ee99>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-ea5ee99>.elementor-background-slideshow {
+    border-radius: 45px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-ea5ee99>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-7564ad5 .elementor-icon-box-wrapper {
+    text-align: right
+}
+
+.elementor-28 .elementor-element.elementor-element-7564ad5 {
+    --icon-box-icon-margin: 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-7564ad5.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-7564ad5.elementor-view-framed .elementor-icon,
+.elementor-28 .elementor-element.elementor-element-7564ad5.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-secondary);
+    color: var(--e-global-color-secondary);
+    border-color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-7a940c2>.elementor-element-populated {
+    border-style: none;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 9px
+}
+
+.elementor-28 .elementor-element.elementor-element-7a940c2>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-7a940c2>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-7a940c2>.elementor-background-slideshow {
+    border-radius: 45px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-7a940c2>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-3d4c513 .elementor-icon-box-wrapper {
+    text-align: right
+}
+
+.elementor-28 .elementor-element.elementor-element-3d4c513 {
+    --icon-box-icon-margin: 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-3d4c513.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-3d4c513.elementor-view-framed .elementor-icon,
+.elementor-28 .elementor-element.elementor-element-3d4c513.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-secondary);
+    color: var(--e-global-color-secondary);
+    border-color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-6229f16>.elementor-element-populated {
+    border-style: none;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 9px
+}
+
+.elementor-28 .elementor-element.elementor-element-6229f16>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-6229f16>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-6229f16>.elementor-background-slideshow {
+    border-radius: 45px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-6229f16>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-25bcda5 .elementor-icon-box-wrapper {
+    text-align: right
+}
+
+.elementor-28 .elementor-element.elementor-element-25bcda5 {
+    --icon-box-icon-margin: 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-25bcda5.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-25bcda5.elementor-view-framed .elementor-icon,
+.elementor-28 .elementor-element.elementor-element-25bcda5.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-secondary);
+    color: var(--e-global-color-secondary);
+    border-color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-7779fa2>.elementor-element-populated {
+    border-style: none;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 9px
+}
+
+.elementor-28 .elementor-element.elementor-element-7779fa2>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-7779fa2>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-7779fa2>.elementor-background-slideshow {
+    border-radius: 45px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-7779fa2>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-231b94f .elementor-icon-box-wrapper {
+    text-align: right
+}
+
+.elementor-28 .elementor-element.elementor-element-231b94f {
+    --icon-box-icon-margin: 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-231b94f.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-231b94f.elementor-view-framed .elementor-icon,
+.elementor-28 .elementor-element.elementor-element-231b94f.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-secondary);
+    color: var(--e-global-color-secondary);
+    border-color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-cacd8fd {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 55px
+}
+
+.elementor-28 .elementor-element.elementor-element-ae391d8 {
+    text-align: center
+}
+
+.elementor-28 .elementor-element.elementor-element-9a4331a {
+    padding: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-6544847>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-6544847:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-28 .elementor-element.elementor-element-6544847>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-primary)
+}
+
+.elementor-28 .elementor-element.elementor-element-6544847>.elementor-element-populated>.elementor-background-overlay {
+    background-image: url("https://safront.com/wp-content/uploads/2024/02/طلب-وساطة-عقارية.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .29
+}
+
+.elementor-28 .elementor-element.elementor-element-6544847>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-6544847>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-6544847>.elementor-background-slideshow {
+    border-radius: 35px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-6544847>.elementor-element-populated {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin: 0 0 0 15px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 15px;
+    padding: 35px
+}
+
+.elementor-28 .elementor-element.elementor-element-6544847>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-529095c .elementor-icon-wrapper {
+    text-align: right
+}
+
+.elementor-28 .elementor-element.elementor-element-529095c.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-529095c.elementor-view-framed .elementor-icon,
+.elementor-28 .elementor-element.elementor-element-529095c.elementor-view-default .elementor-icon {
+    color: var(--e-global-color-c52b3fc);
+    border-color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-529095c.elementor-view-framed .elementor-icon,
+.elementor-28 .elementor-element.elementor-element-529095c.elementor-view-default .elementor-icon svg {
+    fill: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-529095c .elementor-icon {
+    font-size: 45px
+}
+
+.elementor-28 .elementor-element.elementor-element-529095c .elementor-icon svg {
+    height: 45px
+}
+
+.elementor-28 .elementor-element.elementor-element-529095c>.elementor-widget-container {
+    margin: 0 0 -7px
+}
+
+.elementor-28 .elementor-element.elementor-element-113a516 .elementor-heading-title {
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-c3b8309 {
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-c3b8309>.elementor-widget-container {
+    margin: 0 0 -25px
+}
+
+.elementor-28 .elementor-element.elementor-element-cacd58c .ekit-btn-wraper {
+    text-align: right
+}
+
+.elementor-28 .elementor-element.elementor-element-cacd58c .elementskit-btn {
+    font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-primary-font-weight);
+    background-color: var(--e-global-color-secondary);
+    border-style: none;
+    border-radius: 15px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-cacd58c .elementskit-btn:hover {
+    color: #fff;
+    border-radius: 0 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-cacd58c .elementskit-btn:hover svg path {
+    stroke: #fff;
+    fill: #fff
+}
+
+.elementor-28 .elementor-element.elementor-element-cacd58c .elementskit-btn>i,
+.elementor-28 .elementor-element.elementor-element-cacd58c .elementskit-btn>svg {
+    margin-right: 5px
+}
+
+.rtl .elementor-28 .elementor-element.elementor-element-cacd58c .elementskit-btn>i,
+.rtl .elementor-28 .elementor-element.elementor-element-cacd58c .elementskit-btn>svg {
+    margin-left: 5px;
+    margin-right: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-5496c99>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-5496c99:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-28 .elementor-element.elementor-element-5496c99>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-primary)
+}
+
+.elementor-28 .elementor-element.elementor-element-5496c99>.elementor-element-populated>.elementor-background-overlay {
+    background-image: url("https://safront.com/wp-content/uploads/2024/02/طلب-تسويق-عقاري.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .29
+}
+
+.elementor-28 .elementor-element.elementor-element-5496c99>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-5496c99>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-5496c99>.elementor-background-slideshow {
+    border-radius: 35px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-5496c99>.elementor-element-populated {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin: 0 15px 0 0;
+    --e-column-margin-right: 15px;
+    --e-column-margin-left: 0px;
+    padding: 35px
+}
+
+.elementor-28 .elementor-element.elementor-element-5496c99>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-3c22521 .elementor-icon-wrapper {
+    text-align: right
+}
+
+.elementor-28 .elementor-element.elementor-element-3c22521.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-3c22521.elementor-view-framed .elementor-icon,
+.elementor-28 .elementor-element.elementor-element-3c22521.elementor-view-default .elementor-icon {
+    color: var(--e-global-color-c52b3fc);
+    border-color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-3c22521.elementor-view-framed .elementor-icon,
+.elementor-28 .elementor-element.elementor-element-3c22521.elementor-view-default .elementor-icon svg {
+    fill: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-3c22521 .elementor-icon {
+    font-size: 45px
+}
+
+.elementor-28 .elementor-element.elementor-element-3c22521 .elementor-icon svg {
+    height: 45px
+}
+
+.elementor-28 .elementor-element.elementor-element-3c22521>.elementor-widget-container {
+    margin: 0 0 -7px
+}
+
+.elementor-28 .elementor-element.elementor-element-6649ac8 .elementor-heading-title {
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-1f4d843 {
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-1f4d843>.elementor-widget-container {
+    margin: 0 0 -25px
+}
+
+.elementor-28 .elementor-element.elementor-element-6e5f726 .ekit-btn-wraper {
+    text-align: right
+}
+
+.elementor-28 .elementor-element.elementor-element-6e5f726 .elementskit-btn {
+    font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-primary-font-weight);
+    background-color: var(--e-global-color-secondary);
+    border-style: none;
+    border-radius: 15px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-6e5f726 .elementskit-btn:hover {
+    color: #fff;
+    border-radius: 0 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-6e5f726 .elementskit-btn:hover svg path {
+    stroke: #fff;
+    fill: #fff
+}
+
+.elementor-28 .elementor-element.elementor-element-6e5f726 .elementskit-btn>i,
+.elementor-28 .elementor-element.elementor-element-6e5f726 .elementskit-btn>svg {
+    margin-right: 5px
+}
+
+.rtl .elementor-28 .elementor-element.elementor-element-6e5f726 .elementskit-btn>i,
+.rtl .elementor-28 .elementor-element.elementor-element-6e5f726 .elementskit-btn>svg {
+    margin-left: 5px;
+    margin-right: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-65eaf15:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-65eaf15>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-accent)
+}
+
+.elementor-28 .elementor-element.elementor-element-65eaf15,
+.elementor-28 .elementor-element.elementor-element-65eaf15>.elementor-background-overlay {
+    border-radius: 177px 0 0
+}
+
+.elementor-28 .elementor-element.elementor-element-65eaf15 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 55px 55px 85px
+}
+
+.elementor-28 .elementor-element.elementor-element-65eaf15>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-65eaf15>.elementor-shape-bottom svg {
+    width: calc(133% + 1.3px)
+}
+
+.elementor-28 .elementor-element.elementor-element-a192155 {
+    text-align: center
+}
+
+.elementor-28 .elementor-element.elementor-element-6514f8c {
+    padding: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-523ca9f .elementskit-clients-slider {
+    --ekit_client_logo_left_right_spacing: 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-523ca9f .ekit-price-card-slider {
+    --ekit_client_logo_slidetosho: 4
+}
+
+.elementor-28 .elementor-element.elementor-element-523ca9f .elementskit-clients-slider .single-client {
+    border-radius: 25px 0;
+    border-style: solid;
+    border-width: 3px;
+    border-color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-523ca9f .simple_logo_image .single-client .content-image .main-image {
+    opacity: 1;
+    filter: alpha(opacity=1)
+}
+
+.elementor-28 .elementor-element.elementor-element-523ca9f .elementskit-clients-slider .single-client img {
+    opacity: 1;
+    filter: alpha(opacity=1)
+}
+
+.elementor-28 .elementor-element.elementor-element-523ca9f .simple_logo_image .single-client:hover .content-image img {
+    opacity: 1;
+    filter: alpha(opacity=1)
+}
+
+.elementor-28 .elementor-element.elementor-element-523ca9f .simple_logo_image .single-client:hover .content-image .main-image {
+    opacity: 1;
+    filter: alpha(opacity=1)
+}
+
+.elementor-28 .elementor-element.elementor-element-523ca9f .elementskit-clients-slider .swiper-pagination>span {
+    margin-right: 8px;
+    margin-left: 8px;
+    width: 8px;
+    height: 8px;
+    background-color: var(--e-global-color-text)
+}
+
+.elementor-28 .elementor-element.elementor-element-523ca9f .elementskit-clients-slider .swiper-pagination {
+    bottom: -50px
+}
+
+.elementor-28 .elementor-element.elementor-element-523ca9f .elementskit-clients-slider .swiper-pagination span.swiper-pagination-bullet-active {
+    background-color: var(--e-global-color-secondary);
+    transform: scale(1.2)
+}
+
+.elementor-28 .elementor-element.elementor-element-07130a3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 55px
+}
+
+.elementor-28 .elementor-element.elementor-element-5b6df47 {
+    padding: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-fc42c58>.elementor-element-populated {
+    border-style: none;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 25px
+}
+
+.elementor-28 .elementor-element.elementor-element-fc42c58>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-fc42c58>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-fc42c58>.elementor-background-slideshow {
+    border-radius: 45px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-fc42c58>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-d1ce4ce {
+    text-align: center
+}
+
+.elementor-28 .elementor-element.elementor-element-d1ce4ce .elementor-heading-title {
+    color: #bfa04c
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .ue_post_carousel_item {
+    border-radius: 25px;
+    border-style: none;
+    margin: 5px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, .5)
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .uc_image_carousel_content {
+    padding: 15px;
+    background-color: var(--e-global-color-c52b3fc);
+    min-height: 200px
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .ue_post_category a {
+    color: #9a9a9a
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .ue_post_category {
+    margin-top: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .ue_post_date {
+    color: #9a9a9a;
+    margin-top: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .ue-grid-item-meta-data {
+    color: #9a9a9a
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .ue-grid-item-meta-data svg {
+    fill: #9a9a9a
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .uc_post_title {
+    color: var(--e-global-color-secondary);
+    margin-top: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .ue_post_intro {
+    color: #747474;
+    margin-top: 10px
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .uc_more_btn {
+    padding: 0;
+    border-radius: 15px;
+    color: #cdab4f;
+    margin-top: 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .uc_more_btn:hover {
+    color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .owl-dot {
+    width: 9px;
+    height: 9px;
+    background-color: #BFA04C7D;
+    margin: 0 5px
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .owl-dot.active {
+    background-color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .owl-dots {
+    margin-top: 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .owl-nav .owl-prev {
+    left: 20px;
+    right: auto
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .owl-nav .owl-next {
+    right: 20px;
+    left: auto
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .owl-carousel .owl-nav .owl-next,
+.elementor-28 .elementor-element.elementor-element-407341b .owl-carousel .owl-nav .owl-prev {
+    top: 160px;
+    border-radius: 0;
+    width: 62px;
+    height: 62px;
+    line-height: 62px;
+    font-size: 24px;
+    background-color: var(--e-global-color-secondary);
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .owl-carousel .owl-nav .owl-next:hover,
+.elementor-28 .elementor-element.elementor-element-407341b .owl-carousel .owl-nav .owl-prev:hover {
+    background-color: var(--e-global-color-c52b3fc);
+    color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .uc_image_carousel_placeholder {
+    height: 250px;
+    transition: all .2s ease-in-out;
+    background-color: #fff;
+    border-radius: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-407341b .uc_image_carousel_bg {
+    height: 250px;
+    background-size: cover;
+    padding: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-29ae520:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-29ae520>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-primary)
+}
+
+.elementor-28 .elementor-element.elementor-element-29ae520>.elementor-background-overlay {
+    background-image: url("https://safront.com/wp-content/uploads/2024/02/cover.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .19;
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-29ae520,
+.elementor-28 .elementor-element.elementor-element-29ae520>.elementor-background-overlay {
+    border-radius: 0 133px 0 0
+}
+
+.elementor-28 .elementor-element.elementor-element-29ae520 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 55px
+}
+
+.elementor-28 .elementor-element.elementor-element-47607c2 {
+    padding: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-c6d93ff>.elementor-element-populated {
+    border-style: none;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 25px
+}
+
+.elementor-28 .elementor-element.elementor-element-c6d93ff>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-c6d93ff>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-c6d93ff>.elementor-background-slideshow {
+    border-radius: 45px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-c6d93ff>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-72279d2 {
+    text-align: right
+}
+
+.elementor-28 .elementor-element.elementor-element-72279d2 .elementor-heading-title {
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-cbbe535 .elementor-icon-box-wrapper {
+    text-align: right
+}
+
+.elementor-28 .elementor-element.elementor-element-cbbe535 {
+    --icon-box-icon-margin: 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-cbbe535 .elementor-icon-box-title {
+    margin-bottom: 7px;
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-cbbe535.elementor-view-stacked .elementor-icon {
+    background-color: #bfa04c
+}
+
+.elementor-28 .elementor-element.elementor-element-cbbe535.elementor-view-framed .elementor-icon,
+.elementor-28 .elementor-element.elementor-element-cbbe535.elementor-view-default .elementor-icon {
+    fill: #bfa04c;
+    color: #bfa04c;
+    border-color: #bfa04c
+}
+
+.elementor-28 .elementor-element.elementor-element-cbbe535 .elementor-icon {
+    font-size: 65px
+}
+
+.elementor-28 .elementor-element.elementor-element-cbbe535 .elementor-icon-box-description {
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-73baad0 .elementor-icon-box-wrapper {
+    text-align: right
+}
+
+.elementor-28 .elementor-element.elementor-element-73baad0 {
+    --icon-box-icon-margin: 15px
+}
+
+.elementor-28 .elementor-element.elementor-element-73baad0 .elementor-icon-box-title {
+    margin-bottom: 7px;
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-73baad0.elementor-view-stacked .elementor-icon {
+    background-color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-73baad0.elementor-view-framed .elementor-icon,
+.elementor-28 .elementor-element.elementor-element-73baad0.elementor-view-default .elementor-icon {
+    fill: var(--e-global-color-secondary);
+    color: var(--e-global-color-secondary);
+    border-color: var(--e-global-color-secondary)
+}
+
+.elementor-28 .elementor-element.elementor-element-73baad0 .elementor-icon {
+    font-size: 65px
+}
+
+.elementor-28 .elementor-element.elementor-element-73baad0 .elementor-icon-box-description {
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-36eaf4a:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-28 .elementor-element.elementor-element-36eaf4a>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #BFA04C59
+}
+
+.elementor-28 .elementor-element.elementor-element-36eaf4a>.elementor-element-populated {
+    border-style: none;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 25px
+}
+
+.elementor-28 .elementor-element.elementor-element-36eaf4a>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-36eaf4a>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-36eaf4a>.elementor-background-slideshow {
+    border-radius: 77px 0 0
+}
+
+.elementor-28 .elementor-element.elementor-element-36eaf4a>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-1cc3b9b {
+    text-align: right
+}
+
+.elementor-28 .elementor-element.elementor-element-1cc3b9b .elementor-heading-title {
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-5bfe6b0:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-5bfe6b0>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-primary)
+}
+
+.elementor-28 .elementor-element.elementor-element-5bfe6b0>.elementor-background-overlay {
+    background-image: url("https://safront.com/wp-content/uploads/2024/02/cover.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .19;
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-5bfe6b0,
+.elementor-28 .elementor-element.elementor-element-5bfe6b0>.elementor-background-overlay {
+    border-radius: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-5bfe6b0 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0
+}
+
+.elementor-28 .elementor-element.elementor-element-66d7311:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-66d7311>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #BFA04C59
+}
+
+.elementor-28 .elementor-element.elementor-element-66d7311 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0 55px
+}
+
+.elementor-28 .elementor-element.elementor-element-66d7311>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-40d1f62>.elementor-element-populated {
+    border-style: none;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 25px
+}
+
+.elementor-28 .elementor-element.elementor-element-40d1f62>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-40d1f62>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-40d1f62>.elementor-background-slideshow {
+    border-radius: 45px 0
+}
+
+.elementor-28 .elementor-element.elementor-element-40d1f62>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-28 .elementor-element.elementor-element-f8b639b {
+    text-align: right
+}
+
+.elementor-28 .elementor-element.elementor-element-f8b639b .elementor-heading-title {
+    color: var(--e-global-color-c52b3fc)
+}
+
+.elementor-28 .elementor-element.elementor-element-432b7ff>.elementor-element-populated {
+    border-style: none;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 25px
+}
+
+.elementor-28 .elementor-element.elementor-element-432b7ff>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-432b7ff>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-432b7ff>.elementor-background-slideshow {
+    border-radius: 77px 0 0
+}
+
+.elementor-28 .elementor-element.elementor-element-432b7ff>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+:root {
+    --page-title-display: none
+}
+
+@media(max-width:880px) and (min-width:768px) {
+    .elementor-28 .elementor-element.elementor-element-ea5ee99 {
+        width: 50%
+    }
+    .elementor-28 .elementor-element.elementor-element-7a940c2 {
+        width: 50%
+    }
+    .elementor-28 .elementor-element.elementor-element-6229f16 {
+        width: 50%
+    }
+    .elementor-28 .elementor-element.elementor-element-7779fa2 {
+        width: 50%
+    }
+}
+
+@media(max-width:1366px) {
+    .elementor-28 .elementor-element.elementor-element-13f1635d {
+        margin-top: 131px;
+        margin-bottom: 0
+    }
+}
+
+@media(max-width:1200px) {
+    .elementor-28 .elementor-element.elementor-element-7f53122 {
+        padding: 55px 11px
+    }
+    .elementor-28 .elementor-element.elementor-element-ae374f4 {
+        padding: 0 25px
+    }
+    .elementor-28 .elementor-element.elementor-element-0f2582e {
+        padding: 55px 11px
+    }
+    .elementor-28 .elementor-element.elementor-element-5dc79c0 {
+        padding: 0 25px
+    }
+    .elementor-28 .elementor-element.elementor-element-bae7332 {
+        padding: 55px 11px
+    }
+    .elementor-28 .elementor-element.elementor-element-1546a93 {
+        padding: 0 25px
+    }
+    .elementor-28 .elementor-element.elementor-element-cacd8fd {
+        padding: 55px 11px
+    }
+    .elementor-28 .elementor-element.elementor-element-9a4331a {
+        padding: 0 25px
+    }
+    .elementor-28 .elementor-element.elementor-element-65eaf15 {
+        padding: 85px 11px
+    }
+    .elementor-28 .elementor-element.elementor-element-6514f8c {
+        padding: 0 25px
+    }
+    .elementor-28 .elementor-element.elementor-element-523ca9f .elementskit-clients-slider .single-client {
+        min-height: 11px
+    }
+    .elementor-28 .elementor-element.elementor-element-07130a3 {
+        padding: 55px 11px
+    }
+    .elementor-28 .elementor-element.elementor-element-5b6df47 {
+        padding: 0 25px
+    }
+    .elementor-28 .elementor-element.elementor-element-29ae520 {
+        padding: 55px 11px
+    }
+    .elementor-28 .elementor-element.elementor-element-47607c2 {
+        padding: 0 25px
+    }
+    .elementor-28 .elementor-element.elementor-element-66d7311 {
+        padding: 0 11px
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-28 .elementor-element.elementor-element-13f1635d {
+        margin-top: 125px;
+        margin-bottom: 0
+    }
+    .elementor-28 .elementor-element.elementor-element-7f53122 {
+        padding: 55px 9px
+    }
+    .elementor-28 .elementor-element.elementor-element-0f2582e {
+        padding: 55px 9px
+    }
+    .elementor-28 .elementor-element.elementor-element-bae7332 {
+        padding: 55px 9px
+    }
+    .elementor-28 .elementor-element.elementor-element-cacd8fd {
+        padding: 55px 9px
+    }
+    .elementor-28 .elementor-element.elementor-element-65eaf15 {
+        padding: 85px 9px
+    }
+    .elementor-28 .elementor-element.elementor-element-523ca9f .elementskit-clients-slider {
+        --ekit_client_logo_left_right_spacing: 10px
+    }
+    .elementor-28 .elementor-element.elementor-element-523ca9f .ekit-price-card-slider {
+        --ekit_client_logo_slidetosho: 2
+    }
+    .elementor-28 .elementor-element.elementor-element-523ca9f .elementskit-clients-slider .swiper-pagination>span {
+        margin-right: 10px;
+        margin-left: 10px
+    }
+    .elementor-28 .elementor-element.elementor-element-07130a3 {
+        padding: 55px 9px
+    }
+    .elementor-28 .elementor-element.elementor-element-29ae520 {
+        padding: 55px 9px
+    }
+    .elementor-28 .elementor-element.elementor-element-66d7311 {
+        padding: 0 9px
+    }
+}
+
+@media(max-width:880px) {
+    .elementor-28 .elementor-element.elementor-element-7f53122 {
+        padding: 55px 0
+    }
+    .elementor-28 .elementor-element.elementor-element-0f2582e {
+        padding: 55px 0
+    }
+    .elementor-28 .elementor-element.elementor-element-bae7332 {
+        padding: 55px 0
+    }
+    .elementor-28 .elementor-element.elementor-element-cacd8fd {
+        padding: 55px 0
+    }
+    .elementor-28 .elementor-element.elementor-element-65eaf15 {
+        padding: 85px 0
+    }
+    .elementor-28 .elementor-element.elementor-element-07130a3 {
+        padding: 55px 0
+    }
+    .elementor-28 .elementor-element.elementor-element-29ae520 {
+        padding: 55px 0
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-28 .elementor-element.elementor-element-13f1635d {
+        margin-top: 163px;
+        margin-bottom: 0
+    }
+    .elementor-28 .elementor-element.elementor-element-dc90a76 .eael-entry-title,
+    .elementor-28 .elementor-element.elementor-element-dc90a76 .eael-entry-title a {
+        font-size: 20px
+    }
+    .elementor-28 .elementor-element.elementor-element-dc90a76 .eael-grid-post-excerpt p {
+        font-size: 17px
+    }
+    .elementor-28 .elementor-element.elementor-element-dc90a76 .eael-post-elements-readmore-btn {
+        font-size: 19px
+    }
+    .elementor-28 .elementor-element.elementor-element-184ed3e .elementskit-btn {
+        font-size: 19px
+    }
+    .elementor-28 .elementor-element.elementor-element-6544847 {
+        width: 100%
+    }
+    .elementor-28 .elementor-element.elementor-element-6544847>.elementor-element-populated {
+        margin: 25px 0 0;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px
+    }
+    .elementor-28 .elementor-element.elementor-element-5496c99 {
+        width: 100%
+    }
+    .elementor-28 .elementor-element.elementor-element-5496c99>.elementor-element-populated {
+        margin: 0;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px
+    }
+    .elementor-28 .elementor-element.elementor-element-523ca9f .elementskit-clients-slider {
+        --ekit_client_logo_left_right_spacing: 10px
+    }
+    .elementor-28 .elementor-element.elementor-element-523ca9f .ekit-price-card-slider {
+        --ekit_client_logo_slidetosho: 1
+    }
+    .elementor-28 .elementor-element.elementor-element-523ca9f .elementskit-clients-slider .swiper-pagination>span {
+        margin-right: 10px;
+        margin-left: 10px
+    }
+    .elementor-28 .elementor-element.elementor-element-fc42c58>.elementor-element-populated {
+        padding: 0
+    }
+    .elementor-28 .elementor-element.elementor-element-36eaf4a>.elementor-element-populated {
+        padding: 0
+    }
+}
